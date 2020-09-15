@@ -1,2 +1,2 @@
-# text-mining
-first trial for text mining
+
+first trial in data analysis and text mining
